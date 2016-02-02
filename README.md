@@ -1,4 +1,4 @@
 # HelloWorld
 
-TODO: Enter the cookbook description here.
+# This cookbook will create a txt file with the words "helloworld".
 
