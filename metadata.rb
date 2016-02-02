@@ -1,0 +1,7 @@
+name 'HelloWorld'
+maintainer 'COF'
+maintainer_email 'daniel.safronoff@capitalone.com'
+license 'all_rights'
+description 'Installs/Configures HelloWorld'
+long_description 'Installs/Configures HelloWorld'
+version '0.1.0'
